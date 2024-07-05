@@ -6,4 +6,4 @@ Gorilla Tag Cheat App
 
 <br>
 
-***Click Here To Download V2:***
+***Click Here To Download V2: https://github.com/termsite/XeniCheatsGui/releases/download/release/XeniCheatsApp.exe***
