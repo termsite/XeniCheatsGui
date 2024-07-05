@@ -12,5 +12,6 @@ To View The Source Files Click The "CheatingApp" Folder Above.
 
 # V2 Trailer!!!
 
-https://streamable.com/ozk0u7
 ![](https://github.com/termsite/XeniCheatsGui/blob/main/2024-07-0518-15-48-ezgif.com-video-to-gif-converter.gif)
+
+View full trailer here: https://streamable.com/ozk0u7
