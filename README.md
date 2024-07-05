@@ -9,3 +9,7 @@ To View The Source Files Click The "CheatingApp" Folder Above.
 <br>
 
 ***Click Here To Download V2: https://github.com/termsite/XeniCheatsGui/releases/download/release/XeniCheatsApp.exe***
+
+# V2 Trailer!!!
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ozk0u7?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
