@@ -1,5 +1,7 @@
 # XeniCheatsGui
-Gorilla Tag Cheat App
+*Open Source Gorilla Tag Cheat App*
+
+To View The Source Files Click The "CheatingApp" Folder Above.
 
 
 # Version 2.0 Out Now!
