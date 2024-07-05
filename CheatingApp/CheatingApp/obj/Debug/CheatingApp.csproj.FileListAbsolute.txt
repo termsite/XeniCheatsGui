@@ -1,0 +1,13 @@
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\bin\Debug\CheatingApp.exe.config
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\bin\Debug\CheatingApp.exe
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\bin\Debug\CheatingApp.pdb
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.csproj.AssemblyReference.cache
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.Form1.resources
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.Properties.Resources.resources
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.csproj.GenerateResource.cache
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.csproj.CoreCompileInputs.cache
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.exe
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.pdb
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.Form2.resources
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.Form3.resources
+C:\Users\AdminUser\source\repos\CheatingApp\CheatingApp\obj\Debug\CheatingApp.Form4.resources
